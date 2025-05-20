@@ -1,4 +1,3 @@
-
 import { Provider } from "react-redux";
 import Body from "./Components/Body";
 import appStore from "./Common/appStore";
@@ -9,8 +8,6 @@ function App() {
       <Provider store={appStore}>
         <Body />
       </Provider>
-
-
     </div>
   );
 }

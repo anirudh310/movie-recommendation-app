@@ -1,5 +1,5 @@
-export const LOGO =
-  "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg";
+export const LOGO = "/logo.png";
+
 
 export const USERAVATAR =
   "https://occ-0-6247-2164.1.nflxso.net/dnm/api/v6/vN7bi_My87NPKvsBoib006Llxzg/AAAABTZ2zlLdBVC05fsd2YQAR43J6vB1NAUBOOrxt7oaFATxMhtdzlNZ846H3D8TZzooe2-FT853YVYs8p001KVFYopWi4D4NXM.png?r=229";
